@@ -10,9 +10,7 @@
 
 The **Causal Budget Law** expresses the conservation of total causal capacity:
 
-\[
-c^{2} = v_{\text{ext}}^{2} + v_{\text{int}}^{2},
-\]
+$c^{2} = v_{\text{ext}}^{2} + v_{\text{int}}^{2}$,
 
 linking external motion and internal transformation under a finite causal rate \(c\).  
 All relativistic and quantum behaviors emerge from this single invariant partition — **without invoking spacetime geometry**.
