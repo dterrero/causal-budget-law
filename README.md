@@ -27,7 +27,7 @@ This repository unifies all theoretical, computational, and numerical work deriv
 
 | Document | Focus | Description |
 |-----------|--------|-------------|
-| **Proper Time as Emergent from Energy and Opposition** | Foundations | Derives proper time as $\tau = E/P$ and introduces the transformation law $T = Ec/P$, with calibrated opposition $F_{\text{cal}} = P/c$. |
+| **Proper Time as Emergent from Energy and Opposition** | Foundations | Derives proper time as $\tau = E/P$ and introduces the transformation law $\mathcal{T} = Ec/P$, with calibrated opposition $F_{\text{cal}} = P/c$. |
 | **Causal Light-Bending from the Causal-Budget Law** | Gravitation | Derives gravitational deflection $\delta = 4GM/(c^{2}b$ and strong-field photon-sphere behavior directly from causal suppression. |
 | **Derivation of the Cs-133 Clock from the Causal-Budget Law** | Quantum / Atomic | Shows that the SI-second hyperfine frequency arises from causal energy–resistance dynamics, matching experiment within 1%. |
 
@@ -37,7 +37,7 @@ This repository unifies all theoretical, computational, and numerical work deriv
 
 Every relation in this framework follows the **universal transformation law**:
 
-$T = \frac{E c}{P}, \qquad \tau = \frac{E}{P}$
+$\mathcal{T} = \frac{E c}{P}, \qquad \tau = \frac{E}{P}$
 
 <details>
 <summary>🔭 <b>Current Domains</b></summary>
@@ -87,7 +87,7 @@ If you use or reference this framework, please cite the repository:
 
 > Terrero, D. A. (2025). *Causal Budget Law: Emergent Time, Gravitation, and Quantum Dynamics from Energy–Resistance Principles.*  
 > DOI / MetaArXiv preprint pending.  
-> [https://github.com/your-username/causal-budget-law](https://github.com/your-username/causal-budget-law)
+> [https://github.com/dterrero/causal-budget-law](https://github.com/dterrero/causal-budget-law)
 
 ---
 
