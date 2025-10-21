@@ -10,9 +10,9 @@
 
 The **Causal Budget Law** expresses the conservation of total causal capacity:
 
-$c^{2} = v_{\text{ext}}^{2} + v_{\text{int}}^{2}$,
+$c^{2} = v_{\text{ext}}^{2} + v_{\text{int}}^{2}$ ,
 
-linking external motion and internal transformation under a finite causal rate \(c\).  
+linking external motion and internal transformation under a finite causal rate $c$.  
 All relativistic and quantum behaviors emerge from this single invariant partition — **without invoking spacetime geometry**.
 
 This repository unifies all theoretical, computational, and numerical work derived from that principle, including:
@@ -27,8 +27,8 @@ This repository unifies all theoretical, computational, and numerical work deriv
 
 | Document | Focus | Description |
 |-----------|--------|-------------|
-| **Proper Time as Emergent from Energy and Opposition** | Foundations | Derives proper time as \( \tau = E/P \) and introduces the transformation law \(T = Ec/P\), with calibrated opposition \(F_{\text{cal}} = P/c\). |
-| **Causal Light-Bending from the Causal-Budget Law** | Gravitation | Derives gravitational deflection \( \delta = 4GM/(c^{2}b) \) and strong-field photon-sphere behavior directly from causal suppression. |
+| **Proper Time as Emergent from Energy and Opposition** | Foundations | Derives proper time as $\tau = E/P$ and introduces the transformation law $T = Ec/P$, with calibrated opposition $F_{\text{cal}} = P/c$. |
+| **Causal Light-Bending from the Causal-Budget Law** | Gravitation | Derives gravitational deflection $\delta = 4GM/(c^{2}b$ and strong-field photon-sphere behavior directly from causal suppression. |
 | **Derivation of the Cs-133 Clock from the Causal-Budget Law** | Quantum / Atomic | Shows that the SI-second hyperfine frequency arises from causal energy–resistance dynamics, matching experiment within 1%. |
 
 ---
@@ -37,9 +37,7 @@ This repository unifies all theoretical, computational, and numerical work deriv
 
 Every relation in this framework follows the **universal transformation law**:
 
-\[
-T = \frac{E c}{P}, \qquad \tau = \frac{E}{P}.
-\]
+$T = \frac{E c}{P}, \qquad \tau = \frac{E}{P}$
 
 <details>
 <summary>🔭 <b>Current Domains</b></summary>
