@@ -14,3 +14,5 @@ python3 ccns_c_reference_clean.py \
 
 ```bash
 python3 ccns_c_reference_clean.py --kappa 0.3
+python3 ccns_c_reference_clean.py --kappa 0.4
+python3 ccns_c_reference_clean.py --kappa 0.6 
