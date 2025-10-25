@@ -89,8 +89,9 @@ $\mathcal{T} = \frac{E c}{P}, \qquad \tau = \frac{E}{P}$
 If you use or reference this framework, please cite the repository:
 
 > Terrero, D. A. (2025). *Causal Budget Law: Emergent Time, Gravitation, and Quantum Dynamics from Energy–Resistance Principles.*  
-> DOI / MetaArXiv preprint pending.  
-> [https://github.com/dterrero/causal-budget-law](https://github.com/dterrero/causal-budget-law)
+> DOI: [10.5281/zenodo.17444083](https://doi.org/10.5281/zenodo.17444083)  
+> [https://github.com/dterrero/causal-budget-law](https://github.com/dterrero/causal-budget-law)  
+> ORCID: [https://orcid.org/0009-0005-4170-149X](https://orcid.org/0009-0005-4170-149X)
 
 ---
 
