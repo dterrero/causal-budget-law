@@ -42,9 +42,10 @@ When the satellite clock is compared to an Earth clock after some duration, the 
 
 | Document | Focus | Description |
 |-----------|--------|-------------|
-| **Proper Time as Emergent from Energy and Opposition** | Foundations | Derives proper time as $\tau_0 = E/P$ and introduces the transformation law $\lambda = E v_{\text{int}}/P$, with calibrated opposition $F_{\mathrm{cal}} = P / v_{\text{int}}$. |
+| **Proper Time as Emergent from Energy and Opposition** | Foundations | Derives causal time at rest $\tau_0 = E/P$ and introduces the transformation extent $\lambda = E v_{\text{int}}/P$ for moving systems. |
 | **Causal Light-Bending from the Causal-Budget Law** | Gravitation | Derives gravitational deflection $\delta = 4GM/(c^2 b)$ and strong-field photon-sphere behavior directly from causal suppression. |
 | **Derivation of the Cs-133 Clock from the Causal-Budget Law** | Quantum / Atomic | Shows that the SI-second hyperfine frequency arises from causal energy–resistance dynamics, matching experiment within 1%. |
+
 
 
 ---
