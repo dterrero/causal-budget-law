@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Last Updated](https://img.shields.io/badge/updated-Oct_2025-green)
 
-## 🧩 Overview
+# 🧩 Overview
 
 ## In Standard Special Relativity
 
