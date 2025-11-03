@@ -11,18 +11,30 @@
 
 ## 🧩 Overview
 
-The **Causal Budget Law** expresses the conservation of total causal capacity:
+## In Standard Special Relativity
 
-$c^{2} = v_{\text{ext}}^{2} + v_{\text{int}}^{2}$ ,
+Proper time is a frame-invariant quantity, but the explanation for why two clocks desynchronize is purely relational and geometric. The standard narrative is:
+> "From the Earth's perspective, the moving satellite's clock ticks slowly due to the geometry of spacetime. From the satellite's perspective, the Earth's clock is moving and ticks slowly. Both are correct descriptions within their frames."
+This can create the philosophical impression that the effect is "just a perspective" or a feature of measurement, rather than a physical process affecting the clock's internal mechanisms.
 
-linking external motion and internal transformation under a finite causal rate $c$.  
-All relativistic and quantum behaviors emerge from this single invariant partition — **without invoking spacetime geometry**.
+## How the Causal Budget Framework Resolves This
 
-This repository unifies all theoretical, computational, and numerical work derived from that principle, including:
-- The emergence of time as energy overcoming resistance,
-- Gravitational light bending and strong-field optics,
-- Atomic timekeeping (Cs-133 clock),
-- Future extensions into perihelion precession, quantum fields, and causal quantization.
+The Causal Budget Framework provides a physical, causal mechanism for what SR describes geometrically:
+
+### Intrinsic Slowing
+The Causal Budget Law,
+
+$$
+c^2 = v_{\text{ext}}^2 + v_{\text{int}}^2
+$$
+
+states that motion ($v_\text{ext} > 0$) physically draws causal capacity away from the internal transformation channel. The decrease in $v_\text{int}$ is not relative to an observer; it is an **objective**, physical reduction in the system's internal rate of change.
+
+### The GPS Clock as a Physical System
+A GPS satellite clock is not merely "observed to tick slow." Its internal processes—the oscillations of its cesium atoms—are objectively progressing at a reduced rate ($v_\text{int} < c$) because some of its finite causal capacity is being used for its orbital motion ($v_\text{ext} > 0$). This is a physical state of the clock itself.
+
+### Accumulated Difference is Physical
+When the satellite clock is compared to an Earth clock after some duration, the difference in accumulated ticks is a direct, physical record of this objective slowing. The Earth clock, with $v_\text{ext} \approx 0$, has a higher $v_\text{int}$ and therefore undergoes more physical state transitions (more "causal ticks") over the same cosmic history.
 
 ---
 
