@@ -9,9 +9,9 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Last Updated](https://img.shields.io/badge/updated-Oct_2025-green)
 
-# 🧩 Overview
+## 🧩 Overview
 
-## In Standard Special Relativity
+### In Standard Special Relativity
 
 Proper time is a frame-invariant quantity, but the explanation for why two clocks desynchronize is purely relational and geometric. The standard narrative is:
 > "From the Earth's perspective, the moving satellite's clock ticks slowly due to the geometry of spacetime. From the satellite's perspective, the Earth's clock is moving and ticks slowly. Both are correct descriptions within their frames."
