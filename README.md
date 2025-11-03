@@ -53,7 +53,7 @@ When the satellite clock is compared to an Earth clock after some duration, the 
 Every relation in this framework follows the **universal transformation law**:
 
 $$
-\lambda = \frac{E \, v_{\text{int}}}{P}, \qquad \tau_0 = \frac{E}{P}
+\lambda = \frac{E v_{\text{int}}}{P}, \qquad \tau_0 = \frac{E}{P}
 $$
 
 
