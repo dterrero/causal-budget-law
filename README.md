@@ -17,7 +17,7 @@ Proper time is a frame-invariant quantity, but the explanation for why two clock
 > "From the Earth's perspective, the moving satellite's clock ticks slowly due to the geometry of spacetime. From the satellite's perspective, the Earth's clock is moving and ticks slowly. Both are correct descriptions within their frames."
 This can create the philosophical impression that the effect is "just a perspective" or a feature of measurement, rather than a physical process affecting the clock's internal mechanisms.
 
-## How the Causal Budget Framework Resolves This
+### How the Causal Budget Framework Resolves This
 
 The Causal Budget Framework provides a physical, causal mechanism for what SR describes geometrically:
 
