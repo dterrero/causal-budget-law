@@ -114,7 +114,7 @@ If you use or reference this framework, please cite the repository:
 
 ## 🧭 Vision
 
-The long-term objective is to establish the **Causal Budget Law** as the foundational bridge between relativity, thermodynamics, and quantum mechanics — showing that *geometry is an emergent bookkeeping of causal energy flow.*
+The long-term objective is to establish the **Quantum Transformation Budget Law** as the foundational bridge between relativity, thermodynamics, and quantum mechanics — showing that *geometry is an emergent bookkeeping of causal energy flow.*
 
 Every addition to this repository extends that bridge — from planetary motion to quantum gravity.
 
