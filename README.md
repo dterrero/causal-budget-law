@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚖️ Causal Budget Law  
-## Causal Time as Emergent from Energy and Resistance (τ = cE / Pv_int)
+## Causal Time as Emergent from Energy and Resistance ($\tau = Ec/Pv_int$)
 </div>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
