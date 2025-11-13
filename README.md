@@ -1,7 +1,7 @@
 <div align="center">
 
-# ⚖️ Causal Budget Law  
-## Causal Time as Emergent from Energy and Resistance ($\tau = Ec/Pv_\text{int}$)
+# ⚖️ Quantum Transformation Budget Law  
+## Time as Emergent from Energy and Resistance ($\tau = Ec/Pv_\text{int}$)
 </div>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -17,24 +17,24 @@ Proper time is a frame-invariant quantity, but the explanation for why two clock
 > "From the Earth's perspective, the moving satellite's clock ticks slowly due to the geometry of spacetime. From the satellite's perspective, the Earth's clock is moving and ticks slowly. Both are correct descriptions within their frames."
 This can create the philosophical impression that the effect is "just a perspective" or a feature of measurement, rather than a physical process affecting the clock's internal mechanisms.
 
-### How the Causal Budget Framework Resolves This
+### How the Quantum Budget Framework Resolves This
 
-The Causal Budget Framework provides a physical, causal mechanism for what SR describes geometrically:
+The Quantum Budget Framework provides a physical, quantum transformation mechanism for what SR describes geometrically:
 
 ### Intrinsic Slowing
-The Causal Budget Law,
+The Quantum Budget Law,
 
 $$
 c^2 = v_{\text{ext}}^2 + v_{\text{int}}^2
 $$
 
-states that motion ($v_\text{ext} > 0$) physically draws causal capacity away from the internal transformation channel. The decrease in $v_\text{int}$ is not relative to an observer; it is an **objective**, physical reduction in the system's internal rate of change.
+states that motion ($v_\text{ext} > 0$) physically draws quantum capacity away from the internal transformation channel. The decrease in $v_\text{int}$ is not relative to an observer; it is an **objective**, physical reduction in the system's internal rate of change.
 
 ### The GPS Clock as a Physical System
-A GPS satellite clock is not merely "observed to tick slow." Its internal processes—the oscillations of its cesium atoms—are objectively progressing at a reduced rate ($v_\text{int} < c$) because some of its finite causal capacity is being used for its orbital motion ($v_\text{ext} > 0$). This is a physical state of the clock itself.
+A GPS satellite clock is not merely "observed to tick slow." Its internal processes—the oscillations of its cesium atoms—are objectively progressing at a reduced rate ($v_\text{int} < c$) because some of its finite quantum capacity is being used for its orbital motion ($v_\text{ext} > 0$). This is a physical state of the clock itself.
 
 ### Accumulated Difference is Physical
-When the satellite clock is compared to an Earth clock after some duration, the difference in accumulated ticks is a direct, physical record of this objective slowing. The Earth clock, with $v_\text{ext} \approx 0$, has a higher $v_\text{int}$ and therefore undergoes more physical state transitions (more "causal ticks") over the same cosmic history.
+When the satellite clock is compared to an Earth clock after some duration, the difference in accumulated ticks is a direct, physical record of this objective slowing. The Earth clock, with $v_\text{ext} \approx 0$, has a higher $v_\text{int}$ and therefore undergoes more physical state transitions (more "quantum ticks") over the same cosmic history.
 
 ---
 
@@ -42,9 +42,9 @@ When the satellite clock is compared to an Earth clock after some duration, the 
 
 | Document | Focus | Description |
 |-----------|--------|-------------|
-| **Proper Time as Emergent from Energy and Opposition** | Foundations | Derives causal time at rest $\tau_0 = E/P$ and introduces the transformation extent $\lambda = E c^2/Pv_{\text{int}}$ for moving systems. |
-| **Causal Light-Bending from the Causal-Budget Law** | Gravitation | Derives gravitational deflection $\delta = 4GM/(c^2 b)$ and strong-field photon-sphere behavior directly from causal suppression. |
-| **Derivation of the Cs-133 Clock from the Causal-Budget Law** | Quantum / Atomic | Shows that the SI-second hyperfine frequency arises from causal energy–resistance dynamics, matching experiment within 1%. |
+| **Proper Time as Emergent from Energy and Opposition** | Foundations | Derives time at rest $\tau_0 = E/P$ and introduces the transformation extent $\lambda = E c^2/Pv_{\text{int}}$ for moving systems. |
+| **Light-Bending from the Quantum Trasformation Budget Law** | Gravitation | Derives gravitational deflection $\delta = 4GM/(c^2 b)$ and strong-field photon-sphere behavior directly from quantum reduction. |
+| **Derivation of the Cs-133 Clock from the Quantum Transformation Budget Law** | Quantum / Atomic | Shows that the SI-second hyperfine frequency arises from quantum energy–resistance dynamics, matching experiment within 1%. |
 
 
 
@@ -70,14 +70,14 @@ $$
 <details>
 <summary>🚀 <b>Planned / Future Additions</b></summary>
 
-- **Perihelion Precession (1-PN)** — orbital advance from causal suppression  
-- **Shapiro Time Delay** — radar echo delay as causal propagation slowdown  
+- **Perihelion Precession (1-PN)** — orbital advance from quantun reduction  
+- **Shapiro Time Delay** — radar echo delay as spatial propagation slowdown  
 - **Gravitational Redshift in Strong Potentials**  
 - **Black-hole Numerics** — photon sphere, ISCO, and capture thresholds  
-- **Lense–Thirring Frame Dragging** — rotational redistribution of causal capacity  
-- **Causal Field Dynamics** — classical limit of quantum gravity  
-- **Quantization of the Causal Field** — Hamiltonian → operator dynamics  
-- **Quantized Curvature & Causal Saturation** — discrete causal cells and saturation limits  
+- **Lense–Thirring Frame Dragging** — rotational redistribution of quantum capacity  
+- **Field Dynamics** — classical limit of quantum gravity  
+- **Quantization of the Quantum Field** — Hamiltonian → operator dynamics  
+- **Quantized Curvature & Saturation** — discrete quantum cells and saturation limits  
 - **Experimental Predictions** — precision deviations in high-energy or strong-field regimes  
 </details>
 
@@ -96,7 +96,7 @@ $$
 
 1. **Operational Foundations** – express every measurable relation through energy and power rather than geometry.  
 2. **Empirical Consistency** – reproduce all tested predictions of relativity and QED.  
-3. **Unified Quantization** – derive quantum mechanics and gravity from causal energy flow.  
+3. **Unified Quantization** – derive quantum mechanics and gravity from quantum energy flow.  
 4. **Predictive Departures** – identify regimes (strong-field, ultra-fast, or quantum-coherent) where measurable deviations may appear.  
 
 ---
@@ -105,7 +105,7 @@ $$
 
 If you use or reference this framework, please cite the repository:
 
-> Terrero, D. A. (2025). *Causal Budget Law: Emergent Time, Gravitation, and Quantum Dynamics from Energy–Resistance Principles.*  
+> Terrero, D. A. (2025). *Quantum Transformation Budget Law: Emergent Time, Gravitation, and Quantum Dynamics from Energy–Resistance Principles.*  
 > DOI: [10.5281/zenodo.17444083](https://doi.org/10.5281/zenodo.17444083)  
 > [https://github.com/dterrero/causal-budget-law](https://github.com/dterrero/causal-budget-law)  
 > ORCID: [https://orcid.org/0009-0005-4170-149X](https://orcid.org/0009-0005-4170-149X)
